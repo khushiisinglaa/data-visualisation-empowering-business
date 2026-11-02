@@ -42,6 +42,3 @@ Data visualisation, data cleaning, business thinking, presenting insights
 
 ## Certificate
 [View my certificate](Tata.pdf)
-
-## Skills
-Data labeling, quality control, PII awareness, guideline writing, attention to detail
