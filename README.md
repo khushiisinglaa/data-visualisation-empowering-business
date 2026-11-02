@@ -35,14 +35,13 @@ I wrote a script and recorded a video of about 5 minutes for the CEO and CMO. I 
 - Some regions have very low sales and may be new growth opportunities
 
 ## Tools
-Tableau / Power BI (keep only the one you used)
+Tableau 
 
 ## Skills
 Data visualisation, data cleaning, business thinking, presenting insights
 
 ## Certificate
 [View my certificate](Tata.pdf)
-I proposed one small change to the One Page Guidelines to make labeling clearer for future labelers.
 
 ## Skills
 Data labeling, quality control, PII awareness, guideline writing, attention to detail
